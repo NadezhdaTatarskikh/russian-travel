@@ -12,8 +12,5 @@
 
 Доработать: Переключение страницы на английский язык
 
-<<<<<<< HEAD
-Ссылка на проект: https://nadezhdatatarskikh.github.io/russian-travel/
-=======
-Ссылка на проект:  
->>>>>>> 5debd85919ecea5e16d608d3e33e44ff18c3d4a1
+Ссылка на проект: 
+https://nadezhdatatarskikh.github.io/russian-travel/

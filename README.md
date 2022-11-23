@@ -12,4 +12,4 @@
 
 Доработать: Переключение страницы на английский язык
 
-Ссылка на проект:  https://nadezhdatatarskikh.github.io/russian-travel/ 
+Ссылка на проект:  

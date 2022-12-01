@@ -34,6 +34,5 @@
 @media screen and (max-width: 425px) {
   .place {
     gap: 32px;
-    padding-bottom: 50px;
   }
 }

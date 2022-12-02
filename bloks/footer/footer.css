@@ -27,7 +27,8 @@
       gap: 48px;
       flex-direction: column;
       align-items: flex-start;
-      padding: 64px 16px 0;
+      padding-top: 64px;
+      padding-left: 16px;
     }
   }
 

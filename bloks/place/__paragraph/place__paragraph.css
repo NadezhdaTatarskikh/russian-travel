@@ -4,7 +4,11 @@
     margin: 0;
     padding-bottom: 26px;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
+}
+
+.place__paragraph:last-child {
+  padding-bottom: 0;
 }
 
 @media screen  and (min-width: 1024px) {
@@ -27,7 +31,4 @@
     }
   }
 
-  .place__paragraph:last-child {
-    padding-bottom: 0;
-  }
 

@@ -1,6 +1,6 @@
 .place__link {
     margin: 0;
-    transition: opacity 0.3 ease;
+    transition: opacity 0.3s ease;
     font-size: 18px;
     line-height: 122%;
     color: #FFFFFF;
